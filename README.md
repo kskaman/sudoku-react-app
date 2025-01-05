@@ -2,7 +2,7 @@
 
 An interactive Sudoku puzzle application built with **React** and **Vite**. The app offers puzzle generation, puzzle solving, conflict detection, and real-time feedback for correct or incorrect entries. 
 
-## Live At :
+## Live At
 sudoku-react-app-alpha.vercel.app
 
 ## Features
