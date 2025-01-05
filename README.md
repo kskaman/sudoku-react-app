@@ -67,14 +67,13 @@ sudoku-react-app-alpha.vercel.app
 
 #### Choose a Mode:
 - **Generate Solution** : Enter your own Sudoku puzzle and click Submit to see the solution.
-- - **Conflict Detection**:
-- - - The puzzle detects duplicates in rows, columns, or 3×3 grids. You’ll see alerts for invalid entries.
+  - **Conflict Detection**: The puzzle detects duplicates in rows, columns, or 3×3 grids. You’ll see alerts for invalid entries.
     
 - **Solve Puzzle**: Select a difficulty (Easy, Medium, Hard), and a random puzzle will be generated.
-- - **Filling Cells**:
-- - - Click an empty cell and type a digit (1–9).
-- - - If the digit is correct, it will turn green. If incorrect, it turns red.
-- - **Completion**: When all cells are filled correctly, a congratulations message is displayed.
+  - **Filling Cells**:
+    - Click an empty cell and type a digit (1–9).
+    - If the digit is correct, it will turn green. If incorrect, it turns red.
+  - **Completion**: When all cells are filled correctly, a congratulations message is displayed.
 
 ## Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page to see if your idea or issue is already listed. If not, open one!
